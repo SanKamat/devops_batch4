@@ -3,3 +3,4 @@ git add filename
 git commit -m "comment"
 git checkout -b branchName
 git checkout branch
+git remote -v
